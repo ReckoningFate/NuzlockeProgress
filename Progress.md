@@ -26,8 +26,8 @@
 | Caught | Route | Pokemon
 |:----:|--------|--------|
 | <li> [ ] </li> | Slumbering Weald | ?
-| <li> [ ] </li> | Route 1 | ?
-| <li> [ ] </li> | Route 2 | ?
+| <li> [x] </li> | Route 1 | Rookidee
+| <li> [x] </li> | Route 2 | Yamper
 | <li> [ ] </li> | Route 3 | ?
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
@@ -66,4 +66,4 @@
 | <li> [ ] </li> | South Lake Miloch | ?
 | <li> [ ] </li> | Giant's Seat | ?
 | <li> [ ] </li> | Dappled Grove | ?
-| <li> [ ] </li> | Rolling Fields | ?
+| <li> [x] </li> | Rolling Fields | Wingull
