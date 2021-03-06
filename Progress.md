@@ -25,7 +25,7 @@
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
-| <li> [ ] </li> | Starter | Nijntje
+| <li> [x] </li> | Starter | Nijntje
 | <li> [ ] </li> | Slumbering Weald | ?
 | <li> [x] </li> | Route 1 | Vliegvogel
 | <li> [x] </li> | Route 2 | Coin
