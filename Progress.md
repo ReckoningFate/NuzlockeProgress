@@ -25,9 +25,10 @@
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
+| <li> [ ] </li> | Starter | Nijntje
 | <li> [ ] </li> | Slumbering Weald | ?
-| <li> [x] </li> | Route 1 | Rookidee
-| <li> [x] </li> | Route 2 | Yamper
+| <li> [x] </li> | Route 1 | Vliegvogel
+| <li> [x] </li> | Route 2 | Coin
 | <li> [ ] </li> | Route 3 | ?
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
@@ -66,4 +67,4 @@
 | <li> [ ] </li> | South Lake Miloch | ?
 | <li> [ ] </li> | Giant's Seat | ?
 | <li> [ ] </li> | Dappled Grove | ?
-| <li> [x] </li> | Rolling Fields | Wingull
+| <li> [x] </li> | Rolling Fields | Flamingo
